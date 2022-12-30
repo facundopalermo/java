@@ -1,0 +1,29 @@
+Consigna 
+
+Se nos ha encargado la implementación de un sistema de recepción y manejo de emergencias. A cada afiliado se le da un dispositivo con dos botones: el botón azul y el botón rojo. Cada dispositivo se conecta mediante señal telefónica celular a un nodo concentrador, que, a su vez, deriva la emergencia al sistema central. 
+
+Si un afiliado aprieta el botón azul, el sistema hará una llamada a la policía y enviará un patrullero a la ubicación del dispositivo. En cambio, si un afiliado aprieta el botón rojo, se enviarán bomberos, ambulancia y solamente un policía motorizado.
+
+Como encargados del área de sistemas se nos pide diseñar el sistema, presentando el diagrama de clases correspondiente, que incluya atributos y métodos necesarios. Dado que se trata de uno de los mejores clientes de la empresa, se nos ha pedido tener especial atención en el diseño, debiendo utilizar al menos 4 patrones de diseño distintos.
+
+
+
+Se nos ha encargado la implementación de un sistema de 
+
+recepción y manejo de emergencias. 
+
+A cada *afiliado* se le da un *dispositivo* con
+
+dos *botones*: el botón azul y el botón rojo. 
+
+Cada dispositivo se conecta mediante señal telefónica celular a un *nodo concentrador*, 
+
+que, a su vez, deriva la emergencia al *sistema central*. 
+
+Si un afiliado aprieta el botón azul, el sistema hará una llamada a la *policía* y enviará un *patrullero* a la ubicación del dispositivo. 
+
+En cambio, si un afiliado aprieta el botón rojo, se enviarán *bomberos*, *ambulancia* y solamente un *policía motorizado*.
+
+
+Como encargados del área de sistemas se nos pide diseñar el sistema, presentando el diagrama de clases correspondiente, que incluya atributos y métodos necesarios. 
+Dado que se trata de uno de los mejores clientes de la empresa, se nos ha pedido tener especial atención en el diseño, debiendo utilizar al menos 4 patrones de diseño distintos.
